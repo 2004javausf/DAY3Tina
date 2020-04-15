@@ -18,7 +18,7 @@ public class Human {
 	}
 	@Override
 	public String toString() {
-		return "Human [name=" + name + ", age=" + age + "]";
+		return "Human [name = " + name + ", age = " + age + "]";
 	}
 	
 	

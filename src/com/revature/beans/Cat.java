@@ -17,6 +17,6 @@ public class Cat {
 	}
 	@Override
 	public String toString() {
-		return "Cat [type=" + type + ", weight=" + weight + "]";
+		return "Cat [type = " + type + ", weight = " + weight + "]";
 	}
 }
